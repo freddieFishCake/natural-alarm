@@ -13,12 +13,12 @@ java -jar target/natural-alarm-mqtt-1.0-SNAPSHOT-jar-with-dependencies --broker 
 ```
 The only mandatory parameter is --topic, all others default to the values shown above.
 
-An example of how the hardware could be assembled using an Ikea Holmo floor standing lamp (https://www.ikea.com/gb/en/search/products/?q=holmo).
+An example of how the hardware could be assembled using an Ikea Holmo floor standing lamp (https://www.ikea.com/gb/en/search/products/?q=holmo). Wrap the self-adhesive RGB LED strips around a suitable tube that fits inside the Holmo lamp.
 
 ![Wrap the self-adhesive RGB LED strips around a suitable tube](https://github.com/freddieFishCake/natural-alarm/blob/master/IMG_8298_small.jpg)
 
-![](https://github.com/freddieFishCake/natural-alarm/blob/master/IMG_8305_small.jpg)
+![Sunrise part #1](https://github.com/freddieFishCake/natural-alarm/blob/master/IMG_8307_small.jpg)
 
-![](https://github.com/freddieFishCake/natural-alarm/blob/master/IMG_8306_small.jpg)
+![Sunrise part #2](https://github.com/freddieFishCake/natural-alarm/blob/master/IMG_8306_small.jpg)
 
-![](https://github.com/freddieFishCake/natural-alarm/blob/master/IMG_8307_small.jpg)
+![Sunrise part #4](https://github.com/freddieFishCake/natural-alarm/blob/master/IMG_8305_small.jpg)
