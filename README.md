@@ -1,7 +1,7 @@
 # natural-alarm
 Java sunrise simulator LED controller using Raspberry Pi and ANAVI Light Controller with MQTT
 
-![](https://github.com/freddieFishCake/natural-alarm/blob/master/IMG_8302_small.jpg)
+![](https://github.com/freddieFishCake/resources/blob/master/IMG_8302_small.jpg)
 
 This project requires specific hardware including any Raspberry Pi, including the Pi Zero, RGB LED strips, a suitable power supply and this MQTT based LED controller:  https://www.crowdsupply.com/anavi-technology/light-controller.
 
@@ -15,13 +15,13 @@ The only mandatory parameter is --topic, all others default to the values shown 
 
 An example of how the hardware could be assembled using an Ikea Holmo floor standing lamp (https://www.ikea.com/gb/en/search/products/?q=holmo). Wrap the self-adhesive RGB LED strips around a suitable tube that fits inside the Holmo lamp.
 
-![Wrap the self-adhesive RGB LED strips around a suitable tube](https://github.com/freddieFishCake/natural-alarm/blob/master/IMG_8298_small.jpg)
+![Wrap the self-adhesive RGB LED strips around a suitable tube](https://github.com/freddieFishCake/resources/blob/master/IMG_8298_small.jpg)
 
-![Sunrise part #1](https://github.com/freddieFishCake/natural-alarm/blob/master/IMG_8307_small.jpg)
+![Sunrise part #1](https://github.com/freddieFishCake/resources/blob/master/IMG_8307_small.jpg)
 
-![Sunrise part #2](https://github.com/freddieFishCake/natural-alarm/blob/master/IMG_8306_small.jpg)
+![Sunrise part #2](https://github.com/freddieFishCake/resources/blob/master/IMG_8306_small.jpg)
 
-![Sunrise part #4](https://github.com/freddieFishCake/natural-alarm/blob/master/IMG_8305_small.jpg)
+![Sunrise part #4](https://github.com/freddieFishCake/resources/blob/master/IMG_8305_small.jpg)
 
 Example setup steps
 
