@@ -52,7 +52,7 @@ sudo systemctl enable mosquitto.service
 sudo systemctl start mosquitto.service
 ```
 
-Test mosquitto using the clients:
+Test mosquitto using the clients
 
 Install wiringpi, piGPIO and OpenSSL:
 ```
