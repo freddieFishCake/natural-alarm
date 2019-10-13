@@ -3,7 +3,7 @@ Java sunrise simulator LED controller using Raspberry Pi and ANAVI Light Control
 
 ![](https://github.com/freddieFishCake/resources/blob/master/IMG_8302_small.jpg)
 
-This project requires specific hardware including any Raspberry Pi, including the Pi Zero, RGB LED strips, a suitable power supply and this MQTT based LED controller:  https://www.crowdsupply.com/anavi-technology/light-controller.
+This project requires specific hardware including any Raspberry Pi, including the Pi Zero, RGB LED strips, a suitable power supply and this MQTT based LED controller:  https://www.crowdsupply.com/anavi-technology/light-phat.
 
 The project requires Java 8 or above.
 
